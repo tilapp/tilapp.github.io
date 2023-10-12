@@ -21,10 +21,11 @@
     }
 </style>
 
-<!-- omit in toc -->
-# Changelog
-
 <nav>
   <a href="/">Home</a>
   <a href="/CHANGELOG">Changelog</a>
 </nav>
+
+<!-- omit in toc -->
+# Changelog
+
