@@ -31,6 +31,7 @@ nav > a:hover {
 - [Usage](#usage)
 - [Installation](#installation)
 - [Development Status](#development-status)
+  - [Example pages](#example-pages)
 - [About Us](#about-us)
   - [Winston Co](#winston-co)
 
@@ -101,6 +102,12 @@ Or [open with GitHub Desktop](x-github-client://openRepo/https://github.com/tila
 ## Development Status
 
 [https://github.com/orgs/tilapp/projects/1/views/1](https://github.com/orgs/tilapp/projects/1/views/1)
+
+### Example pages
+
+<img src="/assets/images/home.png" alt="Home Page" />
+<img src="/assets/images/my-profile.png" alt="My Profile Page" />
+<img src="/assets/images/new-post.png" alt="New Post Page" />
 
 ## About Us
 
