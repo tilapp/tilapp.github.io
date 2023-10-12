@@ -21,13 +21,13 @@
     }
 </style>
 
-<!-- omit in toc -->
-# Today I Learned
-
 <nav>
   <a href="/">Home</a>
   <a href="/CHANGELOG">Changelog</a>
 </nav>
+
+<!-- omit in toc -->
+# Today I Learned
 
 <!-- omit in toc -->
 ### Table of Contents
