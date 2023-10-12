@@ -1,4 +1,38 @@
+<!-- omit in toc -->
 # Today I Learned
+
+<style>
+nav {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1rem;
+}
+
+nav > a {
+  font-size: 18px;
+  padding: .5rem 2rem;
+  background: #eee;
+  outline: 0px solid;
+}
+
+nav > a:hover {
+  outline: 1px solid;
+  text-decoration: none;
+}
+</style>
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/CHANGELOG">Changelog</a>
+</nav>
+
+- [Motivation](#motivation)
+- [Goals](#goals)
+- [Usage](#usage)
+- [Installation](#installation)
+- [Development Status](#development-status)
+- [About Us](#about-us)
+  - [Winston Co](#winston-co)
 
 ## Motivation
 
@@ -6,6 +40,7 @@ There are many benefits to learning something new every day, but it is difficult
 
 > A note from the creator: The original inspiration was realizing I'm best motivated by seeing my friends also being productive. I envisioned an app dedicated to seeing other people's progress on their learning journeys, where everyone can motivate each other.
 
+<!-- omit in toc -->
 ### Problems:
 
 - **Lack of Genuine Learning Community:** Most social media platforms primarily encourage superficial interactions and personal branding. The abundance of noise makes it difficult to find supportive learning communities.
@@ -16,16 +51,19 @@ There are many benefits to learning something new every day, but it is difficult
 
 - **Disconnect from Educational Institutions:** There is often a disconnect between the knowledge-seeking endeavors of students and the resources provided by educational institutions. There isn't always a class for what you want to learn. Fostering a seamless connection between students and universities or learning organizations remains a challenge.
 
+<!-- omit in toc -->
 ### Solution:
 
 The "Today I Learned" app aims to tackle these problems by providing a dedicated platform for learning enthusiasts. It encourages users to share their learning experiences, with each post beginning with "Today I learned...". The app analyzes posts based on keywords, allowing users to find others who are learning similar things and connect with them. Through direct integration with university networks and organizations, it fosters a community that is closely tied to the world of education, reducing anonymity and trolling. Users can now engage in meaningful, knowledge-focused conversations and build authentic connections with peers who share their passion for learning.
 
 ## Goals
 
+<!-- omit in toc -->
 ### Home Feed
 
 On the home feed, you can see what people are learning all over the world, with filters to sort by relevancy (about topics similar to those you've learned) or date posted, or you can see posts from other members of your organization or your friends. To promote a healthy community, you can report messages or users that go against our Code of Conduct.
 
+<!-- omit in toc -->
 ### Connections
 
 The app analyzes your posts for keywords and suggests people who are learning similar things. Making friends unlocks additional features in the app. For example, you can only comment on posts from your friends.
@@ -36,10 +74,12 @@ Potential features to add:
 
 ## Usage
 
+<!-- omit in toc -->
 ### Normal User
 
 When users register an account, they must provide the email tied to their organization or university in order to prove their identity. The email will be verified automatically, but can also be manually verified by an organization admin. While the email is being processed, a user will only be able to view global posts.
 
+<!-- omit in toc -->
 ### Organization Administrator
 
 When new organizations are integrated with the app, a base administrator account is created that can manage the organization within the app. When making a new admin account, it must be approved by another admin account from the same  organization.
@@ -68,7 +108,7 @@ Or [open with GitHub Desktop](x-github-client://openRepo/https://github.com/tila
 Aspiring web developer
 
 | Liked learning | Currently learning | Wants to learn |
-|----------------|--------------------|----------------|
+| -------------- | ------------------ | -------------- |
 | TypeScript     | HTMX               | Rust           |
 | React          | Flutter            |                |
 | Blazor         | OCaml              |                |
