@@ -60,7 +60,7 @@ Or [open with GitHub Desktop](x-github-client://openRepo/https://github.com/tila
 
 ## Development Status
 
-https://github.com/orgs/tilapp/projects/1/views/1
+[https://github.com/orgs/tilapp/projects/1/views/1](https://github.com/orgs/tilapp/projects/1/views/1)
 
 ## About Us
 
@@ -74,5 +74,5 @@ Aspiring web developer
 | Blazor         | OCaml              |                |
 |                | Vim motions        |                |
 
-[^1]: https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/
+[^1]: [https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/](https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/)
 
