@@ -10,14 +10,12 @@
     {% include head-custom.html %}
   </head>
   <body>
+    <nav>
+      <a href="{{ "/" | absolute_url }}" class="title">Today I Learned</a>
+      <div class="spacer"></div>
+      <a href="/CHANGELOG">Changelog</a>
+    </nav>
     <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-      <nav>
-        <a href="{{ "/" | absolute_url }}" class="title">{{ site.title }}</a>
-        <div class="spacer"></div>
-        <a href="/CHANGELOG">Changelog</a>
-      </nav>
-      {% endif %}
 
       {{ content }}
 

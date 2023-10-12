@@ -6,22 +6,26 @@
 nav {
   display: flex;
   flex-direction: row;
+  align-items: center;
   margin-bottom: 1rem;
   background-color: #F3F3F3;
 }
 
 .title {
-  font-size: 20px;
+  font-size: 24px;
+  font-weight: 500;
 }
 
 .spacer {
   height: 2px;
   width: 100%;
+  background-color: #EEE;
 }
 
 nav > a {
   font-size: 18px;
   padding: 0.5rem 2rem;
+  white-space: nowrap;
 }
 
 nav > a:hover {
