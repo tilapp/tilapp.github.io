@@ -5,6 +5,12 @@
 
 nav {
   display: flex;
+  justify-content: center;
+}
+
+.nav-content {
+  max-width: 1012px;
+  display: flex;
   flex-direction: row;
   align-items: center;
   margin-bottom: 1rem;
