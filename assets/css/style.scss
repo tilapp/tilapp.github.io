@@ -6,15 +6,16 @@
 nav {
   display: flex;
   justify-content: center;
+  background-color: #F3F3F3;
+  margin-bottom: 1rem;
 }
 
 .nav-content {
+  width: 100%;
   max-width: 1012px;
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-bottom: 1rem;
-  background-color: #F3F3F3;
 }
 
 .title {
@@ -28,13 +29,13 @@ nav {
   background-color: #EEE;
 }
 
-nav > a {
+nav a {
   font-size: 18px;
   padding: 0.5rem 2rem;
   white-space: nowrap;
 }
 
-nav > a:hover {
+nav a:hover {
   background-color: #EEE;
   text-decoration: none;
 }
