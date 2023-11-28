@@ -9,7 +9,6 @@
 - Find out what your friends posted
 - Change something on your profile
 - Report bad behavior in the app
-
 - Create an account as an organization admin
 - View your organization and change details
 
