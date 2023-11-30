@@ -2,30 +2,28 @@
 
 ## User Goals
 
-- Create an account as a normal user
-- Make a post about something you learned today
-- Read a few posts from other users
-- Make friends with other users
-- Find out what your friends posted
-- Change something on your profile
-- Report bad behavior in the app
-- Create an account as an organization admin
-- View your organization and change details
+- As a normal user
+  - Share something you learned today
+  - Read a few posts from other users
+  - Find other users with similar interests or from the same org, or both
+  - Make friends with other users and see what they posted
+- As an organization admin
+  - View your org and change details
 
 ## Scenarios
 
-- Imagine you are a student who just finished a class in Chemistry 161 and are on the way to your next one. You heard about the app and are trying it for the first time. Register an account and make a post about something you just learned.
+- Imagine you are a student who just finished a class and are on the way to your next one. You heard about this app and are trying it for the first time. Register an account using your school email and make a post about something you just learned.
 
-- Imagine you are a student who has been using the app before. Your friend recently made an account. Find your friend's profile and send them a friend request.
+- Imagine you are a student who has been using the app before. Your friend (from the same university) recently made an account and posted a few things. Find your friend's profile and send them a friend request.
 
-- Imagine you are an organization and you want your members to use the app. Create a new organization with a default admin account.
+- Imagine you are a staff member of a university and you want students and other staff members to use this app. Create a new organization with a default admin account. Then, create a personal account under that organization.
 
 ## User Types
 
 - Student
-- Organization Owner
+- University staff?
 
 ## Recruitment
 
 - Since they are from many different schools, I can ask my friends to evaluate the app.
-- Unsure if possible to get organization owners
+- Unsure if possible to get many staff members
