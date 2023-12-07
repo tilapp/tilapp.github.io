@@ -8,6 +8,7 @@
 - Make friends with other users and see what they posted
 - After using the app, you feel more motivated to learn
 - You would use this app to share things you learn
+- You would share this app with others
 
 ## Scenarios
 
@@ -22,3 +23,5 @@
 ## Recruitment
 
 - Since they are from many different schools, I can ask my friends to evaluate the app.
+
+# [Report](/evaluation-report)
