@@ -6,7 +6,7 @@
 - Since distributing the app was not working, I walked through the app via Discord by sharing my screen
 - Generally, I asked participants to guide me, since I was controlling the app, to create an account, make a post, and send a friend request. Then, I asked for thoughts about the app. I asked whether they would use this app and whether they felt more motivated to learn after using this app.
 
-## User Tests
+## User Tests (12/7/2023)
 
 ### User A
 
@@ -75,6 +75,6 @@
 
 ### Biggest usability problems
 
-1. [No search feature to find users](https://github.com/tilapp/til/issues/34)
+1. [No search feature to find users](https://github.com/tilapp/til/issues/34) [Added]
 2. [No ability to reply to posts](https://github.com/tilapp/til/issues/35)
 3. [Needs better filters on home screen](https://github.com/tilapp/til/issues/36)
