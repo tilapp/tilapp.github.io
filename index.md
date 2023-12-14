@@ -8,6 +8,8 @@
 - [Goals](#goals)
 - [Usage](#usage)
   - [Pages](#pages)
+- [Usability Test](#usability-test)
+- [Deployment](#deployment)
 - [Installation](#installation)
 - [Development Status](#development-status)
 - [About Us](#about-us)
@@ -85,6 +87,12 @@ In the future, you will see a list of suggested users, who recently made posts a
 <img src="/assets/images/new-post.png" alt="New Post Page" />
 
 And of course, you can make posts of your own by clicking the **+** icon at the bottom.
+
+## [Usability Test](/evaluation)
+
+## Deployment
+
+This app is currently not deployed.
 
 ## Installation
 
