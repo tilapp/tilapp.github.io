@@ -7,9 +7,9 @@
 - [Motivation](#motivation)
 - [Goals](#goals)
 - [Usage](#usage)
+  - [Pages](#pages)
 - [Installation](#installation)
 - [Development Status](#development-status)
-  - [Example pages](#example-pages)
 - [About Us](#about-us)
   - [Winston Co](#winston-co)
 
@@ -63,6 +63,29 @@ When users register an account, they must provide the email tied to their organi
 
 When new organizations are integrated with the app, a base administrator account is created that can manage the organization within the app. When making a new admin account, it must be approved by another admin account from the same  organization.
 
+### Pages
+
+<img src="/assets/images/home.png" alt="Home Page" />
+<img src="/assets/images/home-2.png" alt="Home Page filtered by friends" />
+<img src="/assets/images/search-user.png" alt="Search User Page" />
+
+On the home page, you can see posts from other users, filtered by various categories (e.g. From your friends). By clicking on the search icon in the bottom-right, you can navigate to a search page where you can search for specific users by name.
+
+<img src="/assets/images/my-profile.png" alt="My Profile Page" />
+<img src="/assets/images/other-profile.png" alt="Other Page" />
+
+Of course, you can see the details of a user, on either your own profile or the profile of another user. You can see all their posts and the organization their account is tied to. And if you aren't friends with them yet, here you can send another user a friend request.
+
+<img src="/assets/images/friends.png" alt="Friends Page" />
+
+On your friends page, you can see your list of friends.
+
+In the future, you will see a list of suggested users, who recently made posts about similar topics as you. If allowed, it will also look at your contacts for other profiles.
+
+<img src="/assets/images/new-post.png" alt="New Post Page" />
+
+And of course, you can make posts of your own by clicking the **+** icon at the bottom.
+
 ## Installation
 
 _Make sure Flutter is installed locally._
@@ -80,12 +103,6 @@ Or [open with GitHub Desktop](x-github-client://openRepo/https://github.com/tila
 ## Development Status
 
 [https://github.com/orgs/tilapp/projects/1/views/1](https://github.com/orgs/tilapp/projects/1/views/1)
-
-### Example pages
-
-<img src="/assets/images/home.png" alt="Home Page" />
-<img src="/assets/images/my-profile.png" alt="My Profile Page" />
-<img src="/assets/images/new-post.png" alt="New Post Page" />
 
 ## About Us
 
