@@ -5,9 +5,7 @@
 ### Table of Contents
 
 - [Motivation](#motivation)
-- [Goals](#goals)
 - [Usage](#usage)
-  - [Pages](#pages)
 - [Usability Test](#usability-test)
 - [Deployment](#deployment)
 - [Installation](#installation)
@@ -37,35 +35,7 @@ There are many benefits to learning something new every day, but it is difficult
 
 The "Today I Learned" app aims to tackle these problems by providing a dedicated platform for learning enthusiasts. It encourages users to share their learning experiences, with each post beginning with "Today I learned...". The app analyzes posts based on keywords, allowing users to find others who are learning similar things and connect with them. Through direct integration with university networks and organizations, it fosters a community that is closely tied to the world of education, reducing anonymity and trolling. Users can now engage in meaningful, knowledge-focused conversations and build authentic connections with peers who share their passion for learning.
 
-## Goals
-
-<!-- omit in toc -->
-### Home Feed
-
-On the home feed, you can see what people are learning all over the world, with filters to sort by relevancy (about topics similar to those you've learned) or date posted, or you can see posts from other members of your organization or your friends. To promote a healthy community, you can report messages or users that go against our Code of Conduct.
-
-<!-- omit in toc -->
-### Connections
-
-The app analyzes your posts for keywords and suggests people who are learning similar things. Making friends unlocks additional features in the app. For example, you can only comment on posts from your friends.
-
-Potential features to add:
-- Friend groups
-- Learning challenges that you can set up between friends or within groups
-
 ## Usage
-
-<!-- omit in toc -->
-### Normal User
-
-When users register an account, they must provide the email tied to their organization or university in order to prove their identity. The email will be verified automatically, but can also be manually verified by an organization admin. While the email is being processed, a user will only be able to view global posts.
-
-<!-- omit in toc -->
-### Organization Administrator
-
-When new organizations are integrated with the app, a base administrator account is created that can manage the organization within the app. When making a new admin account, it must be approved by another admin account from the same  organization.
-
-### Pages
 
 <img src="/assets/images/home.png" alt="Home Page" />
 <img src="/assets/images/home-2.png" alt="Home Page filtered by friends" />
